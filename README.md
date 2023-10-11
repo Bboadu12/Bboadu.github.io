@@ -65,7 +65,7 @@
   <img src="https://i.pinimg.com/736x/42/79/af/4279af45c4fd24dc990f4e33242826dd.jpg" alt="OutFit 1" style="width:400px;height:400px;">
       <p>Some text </p>
       <h3>Some Links</h3>
-      <p>Lorem ipsum dolor sit ame.</p>
+      <p>LINks</p>
       <ul class="nav nav-pills nav-stacked">
         <li class="active"><a href="#">Link 1</a></li>
         <li><a href="#">Link 2</a></li>
@@ -79,7 +79,7 @@
    <img src="https://i.pinimg.com/736x/42/79/af/4279af45c4fd24dc990f4e33242826dd.jpg" alt="OutFit 1" style="width:400px;height:400px;">
       <p>Some text </p>
       <h3>Some Links</h3>
-      <p>Lorem ipsum dolor sit ame.</p>
+      <p>LINks.</p>
       <ul class="nav nav-pills nav-stacked">
         <li class="active"><a href="#">Link 1</a></li>
         <li><a href="#">Link 2</a></li>
