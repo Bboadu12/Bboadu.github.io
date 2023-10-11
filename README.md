@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
   <title>Fashion TopPic</title>
@@ -37,8 +36,8 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="index.html">Home</a></li>
-        <li><a href="Clothes.html">Page 2</a></li>
-        <li><a href="#">Page 3</a></li>
+        <li><a href="Clothes.html">Last WEek</a></li>
+        <li><a href="#">2 WEeks ago</a></li>
       </ul>
     </div>
   </div>
